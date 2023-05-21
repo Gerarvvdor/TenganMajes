@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">orellanaGerardo</string>
+    <string name="text_input_meats">Cantidad de carnes</string>
+    <string name="text_continue_button">Continuar</string>
+    <string name="text_fried_potatoes">Fritas</string>
+    <string name="text_salad">Ensalada</string>
+    <string name="text_pure">Pure</string>
+    <string name="text_invisible">PURE</string>
+    <string name="text_complement">Complemento</string>
+
+</resources>
